@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
 
-## Getting Started
+  Estudo Frameworks frontend
 
-First, run the development server:
+</h1>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Estudo desenvolvido durante live para entender melhor os frameworks frontend mais utilizados no mercado, segundo pesquisas do [StackOverflow](https://survey.stackoverflow.co/2022/#most-popular-technologies-language-prof) e [State Of JS](https://2021.stateofjs.com/en-US/libraries/front-end-frameworks).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+As principais perguntas que fiz durante este estudo foram:
+- Que tipo de problemas esse framework se propõe a resolver?
+  - como estava a tecnologia no momento em que ele foi desenvolvido?
+- Como é a curva de aprendizado e experiência ao desenvolver um projeto simples com esse framework?
+  - login
+  - roteamento
+  - busca de dados em APIs
+  - manipulação da DOM
+- O que poderia fazer o framework “morrer”?
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## ✨ Tecnologias
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Os frameworks explorados nesse projeto são:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [React](https://reactjs.org/) - (Next)
+- [Angular]
+- [Vue]
+- [Svelte]
 
-## Learn More
+## 💻 Como executar
 
-To learn more about Next.js, take a look at the following resources:
+[Em construção]
+A ideia é ter um link para cada projeto em cada linguagem
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 Licença
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Esse projeto está sob licença MIT.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feito com ❤ por Daniela Caus na [Twitch](https://twitch.tv/danicaus) com o chat
