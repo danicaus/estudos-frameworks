@@ -1,12 +1,12 @@
+import { signIn } from "next-auth/react";
 
 export default function Login() {
-  function teste() {
-    console.log("fui clicado")
-  }
+  // const { data: session } = getSession()
 
   return (
-    <button onClick={() => teste()}>
-      Logar com Github
-    </button>
+    <>
+      <h1>Olá, pessoa!</h1>
+      <button onClick={() => signIn()}>Login</button>
+    </>  
   )
 }
